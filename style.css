@@ -21,6 +21,16 @@
     border-color: #39a6f0;
 }
 
+.to-do h2 {
+    color: #192327;
+    display: flex;
+    align-items: center;
+    margin-bottom:20px;
+    font-family: 'Arial', sans-serif; 
+    font-size: 24px; 
+    font-weight: bold;
+}
+
 .to-do h2 img {
     width: 80px;
     margin-left: 20px;
