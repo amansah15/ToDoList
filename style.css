@@ -1,0 +1,11 @@
+.screen-backdrop {
+    width: 135%;
+    height: 15rem;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 0 0 50% 50%;
+    background-color: #39a6f0;
+    z-index: -1;
+}
